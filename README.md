@@ -109,7 +109,7 @@ npm start
 
 ```
 
-> Runs on: `http://localhost:3000/`
+> Runs on: `http://localhost:5500/`
 
 ---
 
