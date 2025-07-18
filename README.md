@@ -39,8 +39,6 @@ The app uses a **client-server model**:
 
 ````
 
----
-
 ## 🗂️ Project Structure
 
 ```
@@ -65,7 +63,7 @@ BasicCalculatorApp/
     ├── index.html
     ├── style.css
     └── script.js
-```
+
 
 ---
 
