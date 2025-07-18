@@ -1,6 +1,6 @@
-`# 🔢 Basic Calculator using React & Spring Boot
+# 🔢 Basic Calculator using Spring Boot
 
-A full-stack web-based calculator application that performs basic arithmetic operations (Addition, Subtraction, Multiplication, Division) using a **React frontend** and **Spring Boot backend**.
+A full-stack web-based calculator application that performs basic arithmetic operations (Addition, Subtraction, Multiplication, Division) 
 
 > 🚀 Codveda Internship Project – Level 1 Task 1
 
@@ -32,8 +32,8 @@ A full-stack web-based calculator application that performs basic arithmetic ope
 
 The application follows a **client-server architecture**:
 
-- **Frontend (Client)**: React, HTML5, CSS3, JavaScript  
-- **Backend (Server)**: Java, Spring Boot, REST APIs
+- **Frontend (Client)**: HTML5, CSS3, JavaScript  
+- **Backend (Server)**: Java, Spring Boot
 
 ---
 
