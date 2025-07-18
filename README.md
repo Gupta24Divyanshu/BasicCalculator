@@ -41,31 +41,20 @@ The application follows a **client-server architecture**:
 
 ```
 
-BasicCalculatorApp/
-├── backend/
-│   ├── src/
-│   │   └── main/
-│   │       ├── java/
-│   │       │   └── com/
-│   │       │       └── calculator/
-│   │       │           ├── CalculatorApplication.java
-│   │       │           ├── controller/
-│   │       │           │   └── CalculatorController.java
-│   │       │           └── model/
-│   │       │               └── CalculationRequest.java
-│   │       └── resources/
-│   │           ├── application.properties
-│   │           └── static/
-│   └── pom.xml
-│
-└── frontend/
-├── public/
-│   └── index.html
-├── src/
-│   ├── App.js
-│   ├── index.js
-│   └── style.css
-└── package.json
+G:\
+└── Codveda\
+    └── level_1\
+        └── Task_1\
+            ├── BasicCalculator_frontend\
+            │   ├── index.html  
+            │   ├── style.css  
+            │   └── script.js  
+            │
+            └── BasicCalculator_backend\
+                ├── src\
+                ├── pom.xml
+                └── application.properties
+
 
 ````
 
