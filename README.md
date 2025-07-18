@@ -37,7 +37,7 @@ The app uses a **client-server model**:
 - **Backend (Server)**: Java, Spring Boot, REST APIs
 
 
-````
+```
 
 ## 🗂️ Project Structure
 
@@ -129,10 +129,9 @@ npm start
 
 ## 🙋‍♂️ Author
 
-| Name                | GitHub                                              | LinkedIn                                          | Email                                                 |
-| ------------------- | --------------------------------------------------- | ------------------------------------------------- | ----------------------------------------------------- |
-| **Divyanshu Gupta** | [DivyanshuGitHub](https://github.com/YOUR_USERNAME) | [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) | [youremail@example.com](mailto:youremail@example.com) |
+| Name                | GitHub                                              | LinkedIn                                          | Email                                                              |
+| ------------------- | --------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------------------------ |
+| **Divyanshu Gupta** | [DivyanshuGitHub](https://github.com/Gupta24Divyanshu) | [LinkedIn](https://linkedin.com/in/divyanshu-gupta-dev670/) | [youremail@example.com](divyanshugupta670@gmail.com)  |
 
 ````
 
----
