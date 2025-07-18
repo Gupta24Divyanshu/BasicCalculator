@@ -86,7 +86,7 @@ BasicCalculatorApp/
 ### ✅ Backend (Spring Boot)
 
 ```bash
-cd BasicCalculatorApp/backend
+cd G:\Codeveda\Level_1\Task_1\BasicCalculator_backend
 mvn spring-boot:run
 ````
 
@@ -99,10 +99,13 @@ server.port=8081
 
 ---
 
-### ✅ Frontend (React)
+### ✅ Frontend (Live Server)
 
 ```bash
-cd BasicCalculatorApp/frontend
+cd G:\Codveda\level_1\Task_1\BasicCalculator_frontend
+npm init -y                   # Only once
+npm install live-server --save-dev
+npm start
 
 ```
 
@@ -112,10 +115,10 @@ cd BasicCalculatorApp/frontend
 
 ## 🔍 How It Works
 
-1. User inputs two numbers and selects an arithmetic operation.
-2. React frontend sends a `POST` request to the backend.
-3. Spring Boot backend processes the request and performs the calculation.
-4. The result is sent back as JSON and displayed in the UI.
+1. User enters two numbers and selects an operation.
+2. JavaScript sends data to Spring Boot backend via fetch().
+3. Backend processes the request and returns the result.
+4. Frontend displays the result on the screen.
 
 ---
 
