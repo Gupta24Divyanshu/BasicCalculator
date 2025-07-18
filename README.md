@@ -75,10 +75,9 @@ BasicCalculatorApp/
 
 | Area       | Tech Stack                             |
 |------------|----------------------------------------|
-| Frontend   | React.js, HTML5, CSS3, JavaScript      |
+| Frontend   | HTML5, CSS3, JavaScript                |
 | Backend    | Java 21, Spring Boot 3.5.3, Maven      |
 | Tools      | VS Code, Git, GitHub, npm, Live Server |
-| API Format | REST APIs using JSON                   |
 
 ---
 
@@ -104,8 +103,7 @@ server.port=8081
 
 ```bash
 cd BasicCalculatorApp/frontend
-npm install
-npm start
+
 ```
 
 > Runs on: `http://localhost:3000/`
@@ -138,5 +136,3 @@ npm start
 | Divyanshu Gupta | [GitHub](https://github.com/Gupta24Divyanshu) | [LinkedIn](https://linkedin.com/in/divyanshu-gupta-dev670/) | [divyanshugupta670@gmail.com](mailto:divyanshugupta670@gmail.com) |
 
 ```
-
----
